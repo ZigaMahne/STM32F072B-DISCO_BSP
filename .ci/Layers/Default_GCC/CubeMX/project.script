@@ -1,0 +1,4 @@
+loadboard STM32F072B-DISCO allmodes
+project name STM32CubeMX
+project toolchain "STM32CubeIDE"
+SetCopyLibrary "copy only"
