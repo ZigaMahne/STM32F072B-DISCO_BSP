@@ -81,9 +81,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1076-f072b-c01_schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32F072RBTx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32F071"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32F072"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32F078"/>
       <feature type="ODbg"      n="1"              name="On-board ST-LINK/V2-1"/>
       <feature type="XTAL"      n="8000000"        name="8 MHz Crystal Oscillator"/>
       <feature type="PWR"       n="5"              name="USB Powered"/>
