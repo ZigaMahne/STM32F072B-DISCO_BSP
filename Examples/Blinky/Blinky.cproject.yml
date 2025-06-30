@@ -41,3 +41,10 @@ project:
     - script:  ./RTE/Device/STM32F072RBTx/ac6_linker_script.sct.src
       regions: ./RTE/Device/STM32F072RBTx/regions_STM32F072B-DISCO.h
       for-compiler: AC6
+
+  # List executable file formats to be generated.
+  output:
+    type:
+      - elf
+      - hex
+      - map
